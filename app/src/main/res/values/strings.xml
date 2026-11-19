@@ -70,7 +70,7 @@
     <string name="AttachmentKeyboard_location">Location</string>
     <!-- Text for a button that will allow users to create a poll -->
     <string name="AttachmentKeyboard_poll">Poll</string>
-    <string name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">Cipher needs permission to show your photos and videos</string>
+    <string name="AttachmentKeyboard_Cipher_needs_permission_to_show_your_photos_and_videos">Cipher needs permission to show your photos and videos</string>
     <!-- Text for a button prompting users to allow Cipher access to their gallery storage -->
     <string name="AttachmentKeyboard_allow_access">Allow Access</string>
     <string name="AttachmentKeyboard_payment">Payment</string>
@@ -8451,6 +8451,38 @@
     <string name="ResetRecoveryKeyBottomSheet__continue">Continue</string>
     <!-- Dialog body shown when the recovery key change limit is exhausted and the user does not have backups enabled. -->
     <string name="BackupKeyRotationDialogs__limit_exceeded_body_no_backups">You\'ve exhausted the number of new keys you can create. You will be able to create a new recovery key in 7 days.</string>
+    <!-- ============================================================
+     Fix: broken by rename (keep OLD name so code compiles)
+     ============================================================ -->
+<string name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">Cipher needs permission to show your photos and videos</string>
+
+<!-- ============================================================
+     Missing resources (were never present) – needed to compile
+     ============================================================ -->
+<string name="SignalLoginReminderMegaphone__thanks_for_confirming_your_signal_login">Thanks for confirming your Cipher login</string>
+
+<string name="DonateToSignal__donation_amount_too_high">Donation amount too high</string>
+<string name="DonateToSignalFragment__you_can_send_up_to_s_via_bank_transfer">You can send up to %1$s via bank transfer</string>
+<string name="DonateToSignalFragment__private_messaging">Private messaging</string>
+<string name="DonateToSignalFragment__privacy_over_profit">Privacy over profit</string>
+<string name="DonateToSignalFragment__continue">Continue</string>
+<string name="DonateToSignalFragment__bank_transfers_usually_take_1_business_day_to_process_onetime">Bank transfers usually take 1 business day to process.</string>
+<string name="DonateToSignalFragment__your_ideal_wero_payment_is_still_processing">Your iDEAL/Wero payment is still processing.</string>
+<string name="DonateToSignalFragment__your_payment_is_still_being_processed_onetime">Your payment is still being processed.</string>
+<string name="DonateToSignalFragment__bank_transfers_usually_take_1_business_day_to_process_monthly">Bank transfers usually take 1 business day to process.</string>
+<string name="DonateToSignalFragment__your_payment_is_still_being_processed_monthly">Your payment is still being processed.</string>
+<string name="DonateToSignalFragment__you_have_a_donation_pending">You have a donation pending</string>
+
+<string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">This is likely because you registered your phone number with Cipher on a different device.</string>
+
+<string name="SignalCheckbox_accessibility_checked_description">Checked</string>
+<string name="SignalCheckbox_accessibility_unchecked_description">Unchecked</string>
+<string name="SignalCheckbox_accessibility_on_click_label">Toggle checkbox</string>
+
+<string name="SignalBottomActionBar_more">More</string>
+
+<string name="SignalConnectionsBottomSheet__signal_connections_are_people">Signal connections are people you\'ve chosen to share your phone number with.</string>
+<string name="SignalConnectionsBottomSheet___signal_connections">Signal connections</string>
 
     <!-- EOF -->
 </resources>
