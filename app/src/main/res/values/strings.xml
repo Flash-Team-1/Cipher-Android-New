@@ -2013,7 +2013,7 @@
         <item quantity="other">%d additional groups</item>
     </plurals>
     <!-- Text for an empty group or when you are the only member -->
-    <string name="MessageRequestProfileView_group_members_zero">No other group members yet</string>
+    <string name="MessageRequestProfileView_group_members_zero">Only you</string>
     <!-- Text for a 2 member group you are in. %1$s is the name of the other member -->
     <string name="MessageRequestProfileView_group_members_one_and_you">%1$s and you</string>
     <!-- Text for a 3 member group you are in. %1$s and %2$s are the members\' names -->
