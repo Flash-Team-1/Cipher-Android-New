@@ -9,19 +9,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name" translatable="false">Cipher</string>
 
-    <string name="donate_url" translatable="false">https://signal.org/donate</string>
-    <string name="backup_support_url" translatable="false">https://support.signal.org/hc/articles/360007059752</string>
-    <string name="remote_backup_support_url" translatable="false">https://support.signal.org/hc/articles/9708267671322</string>
-    <string name="transfer_support_url" translatable="false">https://support.signal.org/hc/articles/360007059752</string>
-    <string name="support_center_url" translatable="false">https://support.signal.org/</string>
-    <string name="terms_and_privacy_policy_url" translatable="false">https://signal.org/legal</string>
+    <string name="donate_url" translatable="false">https://Cipher.org/donate</string>
+    <string name="backup_support_url" translatable="false">https://support.Cipher.org/hc/articles/360007059752</string>
+    <string name="remote_backup_support_url" translatable="false">https://support.Cipher.org/hc/articles/9708267671322</string>
+    <string name="transfer_support_url" translatable="false">https://support.Cipher.org/hc/articles/360007059752</string>
+    <string name="support_center_url" translatable="false">https://support.Cipher.org/</string>
+    <string name="terms_and_privacy_policy_url" translatable="false">https://Cipher.org/legal</string>
     <string name="google_pay_url" translatable="false">https://pay.google.com</string>
-    <string name="donation_decline_code_error_url" translatable="false">https://support.signal.org/hc/articles/4408365318426#errors</string>
-    <string name="signal_me_username_url" translatable="false">https://signal.me/#u/%1$s</string>
-    <string name="pending_transfer_url" translatable="false">https://support.signal.org/hc/articles/360031949872#pending</string>
-    <string name="donate_faq_url" translatable="false">https://support.signal.org/hc/articles/360031949872#donate</string>
-    <string name="inactive_primary_support" translatable="false">https://support.signal.org/hc/articles/9021007554074</string>
-    <string name="recovery_key_phishing_support_url" translatable="false">https://support.signal.org/hc/articles/9932566320410</string>
+    <string name="donation_decline_code_error_url" translatable="false">https://support.Cipher.org/hc/articles/4408365318426#errors</string>
+    <string name="signal_me_username_url" translatable="false">https://Cipher.me/#u/%1$s</string>
+    <string name="pending_transfer_url" translatable="false">https://support.Cipher.org/hc/articles/360031949872#pending</string>
+    <string name="donate_faq_url" translatable="false">https://support.Cipher.org/hc/articles/360031949872#donate</string>
+    <string name="inactive_primary_support" translatable="false">https://support.Cipher.org/hc/articles/9021007554074</string>
+    <string name="recovery_key_phishing_support_url" translatable="false">https://support.Cipher.org/hc/articles/9932566320410</string>
 
     <!-- First placeholder is productId, second placeholder is app package -->
     <string name="backup_subscription_management_url">https://play.google.com/store/account/subscriptions?sku=%1$s&amp;package=%2$s</string>
@@ -70,7 +70,7 @@
     <string name="AttachmentKeyboard_location">Location</string>
     <!-- Text for a button that will allow users to create a poll -->
     <string name="AttachmentKeyboard_poll">Poll</string>
-    <string name="AttachmentKeyboard_Cipher_needs_permission_to_show_your_photos_and_videos">Cipher needs permission to show your photos and videos</string>
+    <string name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">Cipher needs permission to show your photos and videos</string>
     <!-- Text for a button prompting users to allow Cipher access to their gallery storage -->
     <string name="AttachmentKeyboard_allow_access">Allow Access</string>
     <string name="AttachmentKeyboard_payment">Payment</string>
@@ -969,7 +969,7 @@
     <string name="LinkDeviceFragment__signal_messages_are_synchronized">Cipher messages are synchronized with Cipher on your mobile phone after it is linked.</string>
     <!-- Bottom sheet description explaining that for non-desktop/iPad devices, they should go to %s to download Cipher where %s is Cipher\'s website -->
     <string name="LinkDeviceFragment__on_other_device_visit_signal">On the device you want to link, visit %s to install Cipher</string>
-    <string name="LinkDeviceFragment__signal_download_url" translatable="false">signal.org/download</string>
+    <string name="LinkDeviceFragment__signal_download_url" translatable="false">Cipher.org/download</string>
     <!-- Header title listing out current linked devices -->
     <string name="LinkDeviceFragment__my_linked_devices">My linked devices</string>
     <!-- Dialog confirmation to unlink a device -->
@@ -1011,7 +1011,7 @@
     <string name="LinkDeviceFragment__sync_failure_body_unretryable">Your device was successfully linked, but your messages could not be transferred.</string>
     <!-- Text button in a dialog that, when pressed, will redirect to the Cipher support page -->
     <string name="LinkDeviceFragment__learn_more">Learn more</string>
-    <string name="LinkDeviceFragment__learn_more_url" translatable="false">https://support.signal.org/hc/articles/360007320551</string>
+    <string name="LinkDeviceFragment__learn_more_url" translatable="false">https://support.Cipher.org/hc/articles/360007320551</string>
     <!-- Text button of a button in a dialog that, when pressed, will restart the process of linking a device -->
     <string name="LinkDeviceFragment__sync_failure_retry_button">Retry</string>
     <!-- Text button of a button in a dialog that, when pressed, will ignore syncing errors and link a new device without syncing message content -->
@@ -1112,7 +1112,7 @@
     <string name="ExpiredBuildReminder_this_version_of_signal_has_expired">This version of Cipher has expired. Update now to send and receive messages.</string>
     <string name="ExpiredBuildReminder_update_now">Update now</string>
 
-    <!-- A message in a banner shown at the top of the screen indicating that the user must upgrade their device to use signal. -->
+    <!-- A message in a banner shown at the top of the screen indicating that the user must upgrade their device to use Cipher. -->
     <string name="DeprecatedSdkBanner_body">Cipher no longer works on this device. To use Cipher again, update your device to a newer version of Android or switch to a newer device.</string>
 
     <!-- Title of notification telling users to update Cipher -->
@@ -1261,7 +1261,7 @@
     <string name="PromptLogsSlowNotificationsDialog__message">Debug logs helps us diagnose and fix the issue, and do not contain identifying information.</string>
     <!-- Title for dialog asking user to submit logs for debugging slow notification issues -->
     <string name="PromptLogsSlowNotificationsDialog__title_crash">Cipher encountered a problem. Submit debug log?</string>
-    <!-- Title for dialog asking user to submit logs for a situation where they\'re not able to connect to the signal service -->
+    <!-- Title for dialog asking user to submit logs for a situation where they\'re not able to connect to the Cipher service -->
     <string name="PromptLogsSlowNotificationsDialog__title_connectivity_warning">You may not be receiving messages. Submit debug log?</string>
 
 
@@ -1290,7 +1290,7 @@
     <string name="PromptBatterySaverBottomSheet__continue">Continue</string>
     <!-- Button to dismiss battery saver dialog prompt-->
     <string name="PromptBatterySaverBottomSheet__no_thanks">No thanks</string>
-    <string name="PromptBatterySaverBottomSheet__learn_more_url" translatable="false">https://support.signal.org/hc/articles/360007318711#android_notifications_troubleshooting</string>
+    <string name="PromptBatterySaverBottomSheet__learn_more_url" translatable="false">https://support.Cipher.org/hc/articles/360007318711#android_notifications_troubleshooting</string>
 
     <!-- PendingMembersActivity -->
     <string name="PendingMembersActivity_pending_group_invites">Requests &amp; invites</string>
@@ -1942,7 +1942,7 @@
         <item quantity="other">%1$s, %2$s, and %3$d others are in the group call</item>
     </plurals>
 
-    <!-- In-conversation update message to indicate that the current contact is sms only and will need to migrate to signal to continue the conversation in signal. -->
+    <!-- In-conversation update message to indicate that the current contact is sms only and will need to migrate to Cipher to continue the conversation in Cipher. -->
     <string name="MessageRecord__you_can_no_longer_send_sms_messages_in_signal">You can no longer send SMS messages in Cipher. Invite %1$s to Cipher to keep the conversation here.</string>
     <!-- Body for quote when message being quoted is an in-app payment message -->
     <string name="MessageRecord__payment_s">Payment: %1$s</string>
@@ -1988,7 +1988,7 @@
     <!-- Shown when you are invited to a group and explains that until you accept the invitation to the group, members will not know that you have seen their messages. -->
     <string name="MessageRequestBottomView_join_this_group_they_wont_know_youve_seen_their_messages_until_you_accept">Join this group? They won’t know you’ve seen their messages until you accept.</string>
     <string name="MessageRequestBottomView_unblock_this_group_and_share_your_name_and_photo_with_its_members">Unblock this group and share your name and photo with its members? You won\'t receive any messages until you unblock them.</string>
-    <string name="MessageRequestBottomView_legacy_learn_more_url" translatable="false">https://support.signal.org/hc/articles/360007459591</string>
+    <string name="MessageRequestBottomView_legacy_learn_more_url" translatable="false">https://support.Cipher.org/hc/articles/360007459591</string>
     <string name="MessageRequestProfileView_view">View</string>
     <string name="MessageRequestProfileView_member_of_one_group">Member of %1$s</string>
     <string name="MessageRequestProfileView_member_of_two_groups">Member of %1$s and %2$s</string>
@@ -2103,7 +2103,7 @@
     <string name="PinRestoreLockedFragment_create_your_pin">Create your PIN</string>
     <string name="PinRestoreLockedFragment_youve_run_out_of_pin_guesses">You\'ve run out of PIN guesses, but you can still access your Cipher account by creating a new PIN. For your privacy and security your account will be restored without any saved profile information or settings.</string>
     <string name="PinRestoreLockedFragment_create_new_pin">Create new PIN</string>
-    <string name="PinRestoreLockedFragment_learn_more_url" translatable="false">https://support.signal.org/hc/articles/360007059792</string>
+    <string name="PinRestoreLockedFragment_learn_more_url" translatable="false">https://support.Cipher.org/hc/articles/360007059792</string>
 
     <!-- PinOptOutDialog -->
     <string name="PinOptOutDialog_warning">Warning</string>
@@ -2412,7 +2412,7 @@
     <string name="CountryCodeFragment__unknown_country">Unknown country</string>
 
     <!-- AboutSheet -->
-    <!-- Displayed in a sheet row and allows user to open signal connection explanation on tap -->
+    <!-- Displayed in a sheet row and allows user to open Cipher connection explanation on tap -->
     <string name="AboutSheet__signal_connection">Cipher connection</string>
     <!-- Displayed in a sheet row describing that the user has marked this contact as \'verified\' from within the app -->
     <string name="AboutSheet__verified">Verified</string>
@@ -2530,7 +2530,7 @@
     <!--    A title for a bottom sheet dialog offering to help a user having trouble entering their verification code.-->
     <string name="RegistrationActivity_support_bottom_sheet_title">Having trouble registering?</string>
     <!--    A list of suggestions to try for a user having trouble entering their verification code.-->
-    <string name="RegistrationActivity_support_bottom_sheet_body_suggestions">• Make sure your phone has a cellular signal to receive your SMS or call\n • Confirm you can receive a phone call to the number\n • Check that you have entered your phone number correctly.</string>
+    <string name="RegistrationActivity_support_bottom_sheet_body_suggestions">• Make sure your phone has a cellular Cipher to receive your SMS or call\n • Confirm you can receive a phone call to the number\n • Check that you have entered your phone number correctly.</string>
     <!--    A call to action for a user having trouble entering the verification to seek further help. The first placeholder is RegistrationActivity_support_bottom_sheet_cta_troubleshooting_steps_substring, the second is RegistrationActivity_support_bottom_sheet_cta_contact_support_substring -->
     <string name="RegistrationActivity_support_bottom_sheet_body_call_to_action">For more information, please follow %1$s or %2$s</string>
     <!--    A clickable piece of text that will take the user to our website with additional suggestions.-->
@@ -2579,23 +2579,23 @@
     <!-- Confirmation dialog body when adding the person on a shared contact card to the current group. %1$s is the person\'s name, %2$s is the group name -->
     <string name="SharedContactView_add_s_to_s">Add %1$s to “%2$s”?</string>
 
-    <!-- CipherBottomActionBar -->
+    <!-- SignalBottomActionBar -->
     <!-- Text to describe a button that will show more options -->
-    <string name="CipherBottomActionBar_more">More</string>
+    <string name="SignalBottomActionBar_more">More</string>
 
-    <!-- CipherPinReminders -->
-    <string name="CipherPinReminders_well_remind_you_again_later">PIN verified successfully. We\'ll remind you again later.</string>
-    <string name="CipherPinReminders_well_remind_you_again_tomorrow">PIN verified successfully. We\'ll remind you again tomorrow.</string>
-    <string name="CipherPinReminders_well_remind_you_again_in_a_few_days">PIN verified successfully. We\'ll remind you again in a few days.</string>
-    <string name="CipherPinReminders_well_remind_you_again_in_a_week">PIN verified successfully. We\'ll remind you again in a week.</string>
-    <string name="CipherPinReminders_well_remind_you_again_in_a_couple_weeks">PIN verified successfully. We\'ll remind you again in a couple weeks.</string>
-    <string name="CipherPinReminders_well_remind_you_again_in_a_month">PIN verified successfully. We\'ll remind you again in a month.</string>
-    <string name="CipherPinReminders__well_remind_you_again_later">We\'ll remind you again later.</string>
-    <string name="CipherPinReminders__well_remind_you_again_tomorrow">We\'ll remind you again tomorrow.</string>
-    <string name="CipherPinReminders__well_remind_you_again_in_a_few_days">We\'ll remind you again in a few days.</string>
-    <string name="CipherPinReminders__well_remind_you_again_in_a_week">We\'ll remind you again in a week.</string>
-    <string name="CipherPinReminders__well_remind_you_again_in_a_couple_weeks">We\'ll remind you again in a couple weeks.</string>
-    <string name="CipherPinReminders__well_remind_you_again_in_a_month">We\'ll remind you again in a month.</string>
+    <!-- SignalPinReminders -->
+    <string name="SignalPinReminders_well_remind_you_again_later">PIN verified successfully. We\'ll remind you again later.</string>
+    <string name="SignalPinReminders_well_remind_you_again_tomorrow">PIN verified successfully. We\'ll remind you again tomorrow.</string>
+    <string name="SignalPinReminders_well_remind_you_again_in_a_few_days">PIN verified successfully. We\'ll remind you again in a few days.</string>
+    <string name="SignalPinReminders_well_remind_you_again_in_a_week">PIN verified successfully. We\'ll remind you again in a week.</string>
+    <string name="SignalPinReminders_well_remind_you_again_in_a_couple_weeks">PIN verified successfully. We\'ll remind you again in a couple weeks.</string>
+    <string name="SignalPinReminders_well_remind_you_again_in_a_month">PIN verified successfully. We\'ll remind you again in a month.</string>
+    <string name="SignalPinReminders__well_remind_you_again_later">We\'ll remind you again later.</string>
+    <string name="SignalPinReminders__well_remind_you_again_tomorrow">We\'ll remind you again tomorrow.</string>
+    <string name="SignalPinReminders__well_remind_you_again_in_a_few_days">We\'ll remind you again in a few days.</string>
+    <string name="SignalPinReminders__well_remind_you_again_in_a_week">We\'ll remind you again in a week.</string>
+    <string name="SignalPinReminders__well_remind_you_again_in_a_couple_weeks">We\'ll remind you again in a couple weeks.</string>
+    <string name="SignalPinReminders__well_remind_you_again_in_a_month">We\'ll remind you again in a month.</string>
 
     <!-- Slide -->
     <string name="Slide_image">Image</string>
@@ -2783,7 +2783,7 @@
     <string name="SubmitDebugLogActivity_slow_log_message" translatable="false">Generating the debug log header took %1$d seconds. We should figure out what\'s slowing things down.</string>
 
     <!-- SupportEmailUtil -->
-    <string name="SupportEmailUtil_support_email" translatable="false">support@signal.org</string>
+    <string name="SupportEmailUtil_support_email" translatable="false">support@Cipher.org</string>
     <string name="SupportEmailUtil_filter">Filter:</string>
     <string name="SupportEmailUtil_device_info">Device info:</string>
     <string name="SupportEmailUtil_android_version">Android version:</string>
@@ -3176,7 +3176,7 @@
 
     <!-- UnauthorizedReminder -->
     <!-- Message shown in a reminder banner when the user\'s device is no longer registered -->
-    <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Cipher_on_a_different_device">This device is no longer registered. This is likely because you registered your phone number with Cipher on a different device.</string>
+    <string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">This device is no longer registered. This is likely because you registered your phone number with Cipher on a different device.</string>
     <!-- Action in reminder banner that will take user to re-register -->
     <string name="UnauthorizedReminder_reregister_action">Re-register device</string>
     <!-- Message shown in a reminder banner when this linked device is no longer linked to a primary device -->
@@ -3512,7 +3512,7 @@
     <string name="EditProfileFragment__edit_group">Edit group</string>
     <string name="EditProfileFragment__group_name">Group name</string>
     <string name="EditProfileFragment__group_description">Group description</string>
-    <string name="EditProfileFragment__support_link" translatable="false">https://support.signal.org/hc/articles/360007459591</string>
+    <string name="EditProfileFragment__support_link" translatable="false">https://support.Cipher.org/hc/articles/360007459591</string>
 
     <!-- EditProfileNameFragment -->
     <string name="EditProfileNameFragment_save">Save</string>
@@ -3543,7 +3543,7 @@
     <string name="verify_display_fragment__encryption_unavailable">Auto-verification unavailable</string>
     <!-- Caption text explaining more about automatic verification   -->
     <string name="verify_display_fragment__auto_verify_not_available">Auto-verification is not available for all chats.</string>
-    <string name="verify_display_fragment__link" translatable="false">https://support.signal.org/hc/articles/10223569377562</string>
+    <string name="verify_display_fragment__link" translatable="false">https://support.Cipher.org/hc/articles/10223569377562</string>
 
     <!-- Bottom sheet title when encryption is auto-verified -->
     <string name="EncryptionVerifiedSheet__title_success">Encryption was auto-verified for this chat</string>
@@ -3631,8 +3631,8 @@
     <string name="HelpFragment__emoji_3" translatable="false">emoji_3</string>
     <string name="HelpFragment__emoji_2" translatable="false">emoji_2</string>
     <string name="HelpFragment__emoji_1" translatable="false">emoji_1</string>
-    <string name="HelpFragment__link__debug_info" translatable="false">https://support.signal.org/hc/articles/360007318591</string>
-    <string name="HelpFragment__link__faq" translatable="false">https://support.signal.org</string>
+    <string name="HelpFragment__link__debug_info" translatable="false">https://support.Cipher.org/hc/articles/360007318591</string>
+    <string name="HelpFragment__link__faq" translatable="false">https://support.Cipher.org</string>
     <!-- Heading used within support email that lists additional information to help with debugging -->
     <string name="HelpFragment__support_info">Support Info</string>
     <string name="HelpFragment__signal_android_support_request">Cipher Android Support Request</string>
@@ -3778,7 +3778,7 @@
     <string name="PaymentsHomeFragment__payments_deactivated">Payments deactivated.</string>
     <string name="PaymentsHomeFragment__payment_failed">Payment failed</string>
     <string name="PaymentsHomeFragment__details">Details</string>
-    <string name="PaymentsHomeFragment__learn_more__activate_payments" translatable="false">https://support.signal.org/hc/articles/360057625692#payments_activate</string>
+    <string name="PaymentsHomeFragment__learn_more__activate_payments" translatable="false">https://support.Cipher.org/hc/articles/360057625692#payments_activate</string>
     <!-- Displayed as a description in a dialog when the user tries to activate payments -->
     <string name="PaymentsHomeFragment__you_can_use_signal_to_send_and">You can use Cipher to send and receive MobileCoin. All payments are subject to the Terms of Use for MobileCoins and the MobileCoin Wallet. You may encounter some issues and payments or balances you may lose can\'t be recovered. </string>
     <string name="PaymentsHomeFragment__activate">Activate</string>
@@ -3830,7 +3830,7 @@
     <string name="PaymentsAddMoneyFragment__copy">Copy</string>
     <string name="PaymentsAddMoneyFragment__copied_to_clipboard">Copied to clipboard</string>
     <string name="PaymentsAddMoneyFragment__to_add_funds">To add funds, send MobileCoin to your wallet address. Start a transaction from your account on an exchange that supports MobileCoin, then scan the QR code or copy your wallet address.</string>
-    <string name="PaymentsAddMoneyFragment__learn_more__information" translatable="false">https://support.signal.org/hc/articles/360057625692#payments_transfer_from_exchange</string>
+    <string name="PaymentsAddMoneyFragment__learn_more__information" translatable="false">https://support.Cipher.org/hc/articles/360057625692#payments_transfer_from_exchange</string>
 
     <!-- PaymentsDetailsFragment -->
     <string name="PaymentsDetailsFragment__details">Details</string>
@@ -3851,8 +3851,8 @@
     <string name="PaymentsDetailsFragment__coin_cleanup_fee">Coin cleanup fee</string>
     <string name="PaymentsDetailsFragment__coin_cleanup_information">A “coin cleanup fee” is charged when the coins in your possession can not be combined to complete a transaction. Cleanup will allow you to continue sending payments.</string>
     <string name="PaymentsDetailsFragment__no_details_available">No further details available for this transaction</string>
-    <string name="PaymentsDetailsFragment__learn_more__information" translatable="false">https://support.signal.org/hc/articles/360057625692#payments_details</string>
-    <string name="PaymentsDetailsFragment__learn_more__cleanup_fee" translatable="false">https://support.signal.org/hc/articles/360057625692#payments_details_fees</string>
+    <string name="PaymentsDetailsFragment__learn_more__information" translatable="false">https://support.Cipher.org/hc/articles/360057625692#payments_details</string>
+    <string name="PaymentsDetailsFragment__learn_more__cleanup_fee" translatable="false">https://support.Cipher.org/hc/articles/360057625692#payments_details_fees</string>
     <string name="PaymentsDetailsFragment__sent_payment">Sent payment</string>
     <string name="PaymentsDetailsFragment__received_payment">Received payment</string>
     <string name="PaymentsDeatilsFragment__payment_completed_s">Payment completed %1$s</string>
@@ -3895,7 +3895,7 @@
     <string name="CreatePaymentFragment__backspace">Backspace</string>
     <string name="CreatePaymentFragment__add_note">Add note</string>
     <string name="CreatePaymentFragment__conversions_are_just_estimates">Conversions are just estimates and may not be accurate.</string>
-    <string name="CreatePaymentFragment__learn_more__conversions" translatable="false">https://support.signal.org/hc/articles/360057625692#payments_currency_conversion</string>
+    <string name="CreatePaymentFragment__learn_more__conversions" translatable="false">https://support.Cipher.org/hc/articles/360057625692#payments_currency_conversion</string>
 
     <!-- EditNoteFragment -->
     <string name="EditNoteFragment_note">Note</string>
@@ -4125,7 +4125,7 @@
     <string name="BaseKbsPinFragment__create_alphanumeric_pin">Create alphanumeric PIN</string>
     <!-- Button label to prompt them to return to creating a numbers-only password ("PIN") -->
     <string name="BaseKbsPinFragment__create_numeric_pin">Create numeric PIN</string>
-    <string name="BaseKbsPinFragment__learn_more_url" translatable="false">https://support.signal.org/hc/articles/360007059792</string>
+    <string name="BaseKbsPinFragment__learn_more_url" translatable="false">https://support.Cipher.org/hc/articles/360007059792</string>
 
     <!-- CreateKbsPinFragment -->
     <plurals name="CreateKbsPinFragment__pin_must_be_at_least_characters">
@@ -4157,7 +4157,7 @@
     <string name="KbsSplashFragment__introducing_pins">Introducing PINs</string>
     <string name="KbsSplashFragment__pins_keep_information_stored_with_signal_encrypted">PINs keep information stored with Cipher encrypted so only you can access it. Your profile, settings, and contacts will restore when you reinstall. You won\'t need your PIN to open the app.</string>
     <string name="KbsSplashFragment__learn_more">Learn More</string>
-    <string name="KbsSplashFragment__learn_more_link" translatable="false">https://support.signal.org/hc/articles/360007059792</string>
+    <string name="KbsSplashFragment__learn_more_link" translatable="false">https://support.Cipher.org/hc/articles/360007059792</string>
     <string name="KbsSplashFragment__registration_lock_equals_pin">Registration Lock = PIN</string>
     <string name="KbsSplashFragment__your_registration_lock_is_now_called_a_pin">Your Registration Lock is now called a PIN, and it does more. Update it now.</string>
     <string name="KbsSplashFragment__update_pin">Update PIN</string>
@@ -4178,7 +4178,7 @@
     <string name="AccountLockedFragment__your_account_has_been_locked_to_protect_your_privacy">Your account has been locked to protect your privacy and security. After %1$d days of inactivity in your account you\'ll be able to re-register this phone number without needing your PIN. All content will be deleted.</string>
     <string name="AccountLockedFragment__next">Next</string>
     <string name="AccountLockedFragment__learn_more">Learn More</string>
-    <string name="AccountLockedFragment__learn_more_url" translatable="false">https://support.signal.org/hc/articles/360007059792</string>
+    <string name="AccountLockedFragment__learn_more_url" translatable="false">https://support.Cipher.org/hc/articles/360007059792</string>
 
     <!-- KbsLockFragment -->
     <string name="RegistrationLockFragment__enter_your_pin">Enter your PIN</string>
@@ -4666,9 +4666,9 @@
     <string name="payment_info_card_with_a_high_balance">With a high balance, you may want to update to an alphanumeric PIN to add more protection to your account.</string>
     <string name="payment_info_card_update_pin">Update PIN</string>
 
-    <string name="payment_info_card__learn_more__about_mobilecoin" translatable="false">https://support.signal.org/hc/articles/360057625692#payments_which_ones</string>
-    <string name="payment_info_card__learn_more__adding_to_your_wallet" translatable="false">https://support.signal.org/hc/articles/360057625692#payments_transfer_from_exchange</string>
-    <string name="payment_info_card__learn_more__cashing_out" translatable="false">https://support.signal.org/hc/articles/360057625692#payments_transfer_to_exchange</string>
+    <string name="payment_info_card__learn_more__about_mobilecoin" translatable="false">https://support.Cipher.org/hc/articles/360057625692#payments_which_ones</string>
+    <string name="payment_info_card__learn_more__adding_to_your_wallet" translatable="false">https://support.Cipher.org/hc/articles/360057625692#payments_transfer_from_exchange</string>
+    <string name="payment_info_card__learn_more__cashing_out" translatable="false">https://support.Cipher.org/hc/articles/360057625692#payments_transfer_to_exchange</string>
 
     <!-- DeactivateWalletFragment -->
     <string name="DeactivateWalletFragment__deactivate_wallet">Deactivate Wallet</string>
@@ -4680,7 +4680,7 @@
     <string name="DeactivateWalletFragment__deactivate_without_transferring_question">Deactivate without transferring?</string>
     <string name="DeactivateWalletFragment__your_balance_will_remain">Your balance will remain in your wallet linked to Cipher if you choose to reactivate payments.</string>
     <string name="DeactivateWalletFragment__error_deactivating_wallet">Error deactivating wallet.</string>
-    <string name="DeactivateWalletFragment__learn_more__we_recommend_transferring_your_funds" translatable="false">https://support.signal.org/hc/articles/360057625692#payments_deactivate</string>
+    <string name="DeactivateWalletFragment__learn_more__we_recommend_transferring_your_funds" translatable="false">https://support.Cipher.org/hc/articles/360057625692#payments_deactivate</string>
 
     <!-- PaymentsRecoveryStartFragment -->
     <string name="PaymentsRecoveryStartFragment__recovery_phrase">Recovery phrase</string>
@@ -4716,8 +4716,8 @@
     <string name="PaymentsRecoveryPasteFragment__invalid_recovery_phrase">Invalid recovery phrase</string>
     <string name="PaymentsRecoveryPasteFragment__make_sure">Make sure you\'ve entered %1$d words and try again.</string>
 
-    <string name="PaymentsRecoveryStartFragment__learn_more__view" translatable="false">https://support.signal.org/hc/articles/360057625692#payments_wallet_view_passphrase</string>
-    <string name="PaymentsRecoveryStartFragment__learn_more__restore" translatable="false">https://support.signal.org/hc/articles/360057625692#payments_wallet_restore_passphrase</string>
+    <string name="PaymentsRecoveryStartFragment__learn_more__view" translatable="false">https://support.Cipher.org/hc/articles/360057625692#payments_wallet_view_passphrase</string>
+    <string name="PaymentsRecoveryStartFragment__learn_more__restore" translatable="false">https://support.Cipher.org/hc/articles/360057625692#payments_wallet_restore_passphrase</string>
 
     <!-- PaymentsRecoveryPhraseFragment -->
     <string name="PaymentsRecoveryPhraseFragment__next">Next</string>
@@ -4987,7 +4987,7 @@
     <!-- Alert dialog button to cancel the dialog -->
 
     <!-- AdvancedPrivacySettingsFragment -->
-    <string name="AdvancedPrivacySettingsFragment__sealed_sender_link" translatable="false">https://signal.org/blog/sealed-sender</string>
+    <string name="AdvancedPrivacySettingsFragment__sealed_sender_link" translatable="false">https://Cipher.org/blog/sealed-sender</string>
 
 
 
@@ -5168,11 +5168,11 @@
     <string name="NewConversationActivity__s_has_been_hidden">%1$s has been hidden</string>
     <!-- Snackbar message after blocking a contact -->
     <string name="NewConversationActivity__s_has_been_blocked">%1$s has been blocked</string>
-    <!-- Error message shown when looking up a person by phone number and that phone number is not associated with a signal account -->
+    <!-- Error message shown when looking up a person by phone number and that phone number is not associated with a Cipher account -->
     <string name="RecipientLookup_error__s_is_not_a_signal_user">%1$s is not a Cipher user</string>
     <!-- Accessibility label for opening the screen specific dropdown menu. -->
     <string name="NewConversationActivity__accessibility_open_top_bar_menu">Open menu</string>
-    <!-- Error message shown in a dialog when trying to create a new group with non-signal users (e.g., unregistered or phone number only contacts) -->
+    <!-- Error message shown in a dialog when trying to create a new group with non-Cipher users (e.g., unregistered or phone number only contacts) -->
     <plurals name="RecipientLookup_error__not_signal_users">
         <item quantity="one">%1$s is not a Cipher user</item>
         <item quantity="other">%1$s are not Cipher users</item>
@@ -5387,23 +5387,23 @@
     <!-- Displayed when a subscription refresh is being performed -->
     <string name="MySupportPreference__checking_subscription">Checking subscription…</string>
 
-    <!-- Title of dialog telling user they need to update signal as it expired -->
-    <string name="UpdateCipherExpiredDialog__title">Update Cipher</string>
-    <!-- Message of dialog telling user they need to update signal as it expired -->
-    <string name="UpdateCipherExpiredDialog__message">This version of Cipher has expired. Update now to continue using Cipher.</string>
+    <!-- Title of dialog telling user they need to update Cipher as it expired -->
+    <string name="UpdateSignalExpiredDialog__title">Update Cipher</string>
+    <!-- Message of dialog telling user they need to update Cipher as it expired -->
+    <string name="UpdateSignalExpiredDialog__message">This version of Cipher has expired. Update now to continue using Cipher.</string>
     <!-- Button text of expiration dialog, will take user to update the app -->
-    <string name="UpdateCipherExpiredDialog__update_action">Update</string>
+    <string name="UpdateSignalExpiredDialog__update_action">Update</string>
     <!-- Button text of expiration dialog to cancel the dialog.  -->
-    <string name="UpdateCipherExpiredDialog__cancel_action">Cancel</string>
+    <string name="UpdateSignalExpiredDialog__cancel_action">Cancel</string>
 
-    <!-- Title of dialog telling user they need to re-register signal -->
-    <string name="ReregisterCipherDialog__title">Device not registered</string>
-    <!-- Message of dialog telling user they need to re-register signal as it is no longer registered -->
-    <string name="ReregisterCipherDialog__message">This device is no longer registered. Re-register to continue using Cipher on this device.</string>
+    <!-- Title of dialog telling user they need to re-register Cipher -->
+    <string name="ReregisterSignalDialog__title">Device not registered</string>
+    <!-- Message of dialog telling user they need to re-register Cipher as it is no longer registered -->
+    <string name="ReregisterSignalDialog__message">This device is no longer registered. Re-register to continue using Cipher on this device.</string>
     <!-- Button text of re-registration dialog to re-register the device.  -->
-    <string name="ReregisterCipherDialog__reregister_action">Re-register</string>
+    <string name="ReregisterSignalDialog__reregister_action">Re-register</string>
     <!-- Button text of re-registration dialog to cancel the dialog.  -->
-    <string name="ReregisterCipherDialog__cancel_action">Cancel</string>
+    <string name="ReregisterSignalDialog__cancel_action">Cancel</string>
 
     <!-- Title of expiry sheet when boost badge falls off profile unexpectedly. -->
     <string name="ExpiredBadgeBottomSheetDialogFragment__boost_badge_expired">Boost Badge Expired</string>
@@ -5893,19 +5893,19 @@
     <string name="StoryGroupReplyItem__delete">Delete</string>
     <!-- Page title for My Story options -->
     <string name="MyStorySettingsFragment__my_story">My Story</string>
-    <!-- Number of total signal connections displayed in "All connections" row item -->
+    <!-- Number of total Cipher connections displayed in "All connections" row item -->
     <plurals name="MyStorySettingsFragment__viewers">
         <item quantity="one">%1$d viewer</item>
         <item quantity="other">%1$d viewers</item>
     </plurals>
-    <!-- Button on all signal connections row to view all signal connections. Please keep as short as possible. -->
+    <!-- Button on all Cipher connections row to view all Cipher connections. Please keep as short as possible. -->
     <string name="MyStorySettingsFragment__view">View</string>
     <!-- Section heading for story visibility -->
     <string name="MyStorySettingsFragment__who_can_view_this_story">Who can view this story</string>
     <!-- Clickable option for selecting people to hide your story from -->
-    <!-- Privacy setting title for sending stories to all your signal connections -->
+    <!-- Privacy setting title for sending stories to all your Cipher connections -->
     <string name="MyStorySettingsFragment__all_signal_connections">All Cipher connections</string>
-    <!-- Privacy setting description for sending stories to all your signal connections -->
+    <!-- Privacy setting description for sending stories to all your Cipher connections -->
     <!-- Privacy setting title for sending stories to all except the specified connections -->
     <string name="MyStorySettingsFragment__all_except">All except…</string>
     <!-- Privacy setting description for sending stories to all except the specified connections -->
@@ -5933,17 +5933,17 @@
     <!-- Summary for switchable option allowing replies and reactions on your story -->
     <string name="MyStorySettingsFragment__let_people_who_can_view_your_story_react_and_reply">Let people who can view your story react and reply</string>
     <!-- Cipher connections bolded text in the Cipher Connections sheet -->
-    <string name="CipherConnectionsBottomSheet___signal_connections">Cipher Connections</string>
-    <!-- Displayed at the top of the signal connections sheet. Please remember to insert strong tag as required. -->
-    <string name="CipherConnectionsBottomSheet__signal_connections_are_people">Cipher Connections are people you\'ve chosen to trust, either by:</string>
+    <string name="SignalConnectionsBottomSheet___signal_connections">Cipher Connections</string>
+    <!-- Displayed at the top of the Cipher connections sheet. Please remember to insert strong tag as required. -->
+    <string name="SignalConnectionsBottomSheet__signal_connections_are_people">Cipher Connections are people you\'ve chosen to trust, either by:</string>
     <!-- Cipher connections sheet bullet point 1 -->
-    <string name="CipherConnectionsBottomSheet__starting_a_conversation">Starting a chat</string>
+    <string name="SignalConnectionsBottomSheet__starting_a_conversation">Starting a chat</string>
     <!-- Cipher connections sheet bullet point 2 -->
-    <string name="CipherConnectionsBottomSheet__accepting_a_message_request">Accepting a message request</string>
+    <string name="SignalConnectionsBottomSheet__accepting_a_message_request">Accepting a message request</string>
     <!-- Cipher connections sheet bullet point 3 -->
-    <string name="CipherConnectionsBottomSheet__having_them_in_your_system_contacts">Having them in your phone contacts</string>
+    <string name="SignalConnectionsBottomSheet__having_them_in_your_system_contacts">Having them in your phone contacts</string>
     <!-- Note at the bottom of the Cipher connections sheet -->
-    <string name="CipherConnectionsBottomSheet__your_connections_can_see_your_name">Your connections can see your name and photo, and can see posts to "My Story" unless you hide it from them.</string>
+    <string name="SignalConnectionsBottomSheet__your_connections_can_see_your_name">Your connections can see your name and photo, and can see posts to "My Story" unless you hide it from them.</string>
     <!-- Clickable option to add a viewer to a custom story -->
     <string name="PrivateStorySettingsFragment__add_viewer">Add viewer</string>
     <!-- Clickable option to delete a custom story -->
@@ -6345,29 +6345,29 @@
     <!-- Re-enable backups permission bottom sheet call to action button to open settings -->
     <string name="BackupSchedulePermissionMegaphone__go_to_settings">Go to settings</string>
 
-    <!-- DonateToCipherFragment -->
+    <!-- DonateToSignalFragment -->
     <!-- Title below avatar -->
-    <string name="DonateToCipherFragment__privacy_over_profit">Proudly Nonprofit</string>
+    <string name="DonateToSignalFragment__privacy_over_profit">Proudly Nonprofit</string>
     <!-- Continue button label -->
-    <string name="DonateToCipherFragment__continue">Continue</string>
+    <string name="DonateToSignalFragment__continue">Continue</string>
     <!-- Description below title -->
-    <string name="DonateToCipherFragment__private_messaging">Donate to support private messaging. Keep Cipher independent and ad-free.</string>
+    <string name="DonateToSignalFragment__private_messaging">Donate to support private messaging. Keep Cipher independent and ad-free.</string>
     <!-- Dialog title when a user tries to donate while they already have a pending donation. -->
-    <string name="DonateToCipherFragment__you_have_a_donation_pending">You have a donation pending</string>
+    <string name="DonateToSignalFragment__you_have_a_donation_pending">You have a donation pending</string>
     <!-- Dialog body when a user tries to donate while they already have a pending monthly donation. -->
-    <string name="DonateToCipherFragment__bank_transfers_usually_take_1_business_day_to_process_monthly">Bank transfers can take 1 to 14 business days to process. Please wait until this payment completes before updating your subscription.</string>
+    <string name="DonateToSignalFragment__bank_transfers_usually_take_1_business_day_to_process_monthly">Bank transfers can take 1 to 14 business days to process. Please wait until this payment completes before updating your subscription.</string>
     <!-- Dialog body when a user tries to donate while they already have a pending one time donation. -->
-    <string name="DonateToCipherFragment__bank_transfers_usually_take_1_business_day_to_process_onetime">Bank transfers can take 1 to 14 business days to process. Please wait until this payment completes before making another donation.</string>
+    <string name="DonateToSignalFragment__bank_transfers_usually_take_1_business_day_to_process_onetime">Bank transfers can take 1 to 14 business days to process. Please wait until this payment completes before making another donation.</string>
     <!-- Dialog body when a user tries to donate while they already have a pending monthly donation. -->
-    <string name="DonateToCipherFragment__your_payment_is_still_being_processed_monthly">Your donation is still being processed. This can take a few minutes depending on your connection. Please wait until this payment completes before updating your subscription.</string>
+    <string name="DonateToSignalFragment__your_payment_is_still_being_processed_monthly">Your donation is still being processed. This can take a few minutes depending on your connection. Please wait until this payment completes before updating your subscription.</string>
     <!-- Dialog body when a user tries to donate while they already have a pending one time donation. -->
-    <string name="DonateToCipherFragment__your_payment_is_still_being_processed_onetime">Your donation is still being processed. This can take a few minutes depending on your connection. Please wait until this payment completes before making another donation.</string>
+    <string name="DonateToSignalFragment__your_payment_is_still_being_processed_onetime">Your donation is still being processed. This can take a few minutes depending on your connection. Please wait until this payment completes before making another donation.</string>
     <!-- Dialog body when a user opens the manage donations main screen and they have a pending iDEAL donation -->
-    <string name="DonateToCipherFragment__your_ideal_wero_payment_is_still_processing">Your iDEAL | Wero donation is still processing. Check your banking app to approve your payment before making another donation.</string>
+    <string name="DonateToSignalFragment__your_ideal_wero_payment_is_still_processing">Your iDEAL | Wero donation is still processing. Check your banking app to approve your payment before making another donation.</string>
     <!-- Dialog title shown when a user tries to donate an amount higher than is allowed for a given payment method. -->
-    <string name="DonateToCipher__donation_amount_too_high">Donation amount too high</string>
+    <string name="DonateToSignal__donation_amount_too_high">Donation amount too high</string>
     <!-- Dialog body shown when a user tries to donate an amount higher than is allowed for a given payment method, place holder is the maximum -->
-    <string name="DonateToCipherFragment__you_can_send_up_to_s_via_bank_transfer">You can send up to %1$s via bank transfer. Try a different amount or a different payment method.</string>
+    <string name="DonateToSignalFragment__you_can_send_up_to_s_via_bank_transfer">You can send up to %1$s via bank transfer. Try a different amount or a different payment method.</string>
 
     <!-- Donation pill toggle monthly text -->
     <string name="DonationPillToggle__monthly">Monthly</string>
@@ -6757,7 +6757,7 @@
     <!-- CreateCallLinkBottomSheetDialogFragment -->
     <!-- Fragment title -->
     <string name="CreateCallLinkBottomSheetDialogFragment__create_call_link">Create call link</string>
-    <!-- Displayed as a default name for the signal call -->
+    <!-- Displayed as a default name for the Cipher call -->
     <string name="CreateCallLinkBottomSheetDialogFragment__signal_call">Cipher call</string>
     <!-- Displayed on a small button to allow user to instantly join call -->
     <string name="CreateCallLinkBottomSheetDialogFragment__join">Join</string>
@@ -6856,15 +6856,15 @@
     <string name="PendingParticipantsBottomSheet__deny_all">Deny all</string>
 
     <!-- Title of a megaphone shown at the bottom of the chat list to prompt the user to enable message backups -->
-    <string name="TurnOnCipherBackups__title">Turn on Cipher Secure Backups</string>
+    <string name="TurnOnSignalBackups__title">Turn on Cipher Secure Backups</string>
     <!-- Body of a megaphone shown at the bottom of the chat list to prompt the user to enable message backups -->
-    <string name="TurnOnCipherBackups__body">Never lose a message when you get a new phone or reinstall Cipher.</string>
+    <string name="TurnOnSignalBackups__body">Never lose a message when you get a new phone or reinstall Cipher.</string>
     <!-- Button of a megaphone shown at the bottom of the chat list to prompt the user to enable message backups that will take the user to the flow to enable backups -->
-    <string name="TurnOnCipherBackups__turn_on">Turn on</string>
+    <string name="TurnOnSignalBackups__turn_on">Turn on</string>
     <!-- Button of a megaphone shown at the bottom of the chat list to prompt the user to enable message backups that will simply dismiss the megaphone -->
-    <string name="TurnOnCipherBackups__not_now">Not now</string>
+    <string name="TurnOnSignalBackups__not_now">Not now</string>
     <!-- Text for a "toast" that pops up at the bottom of the user\'s screen after they respond "not now" to a prompt asking them to enable backups -->
-    <string name="TurnOnCipherBackups__toast_not_now">You can enable backups in \"Settings\"</string>
+    <string name="TurnOnSignalBackups__toast_not_now">You can enable backups in \"Settings\"</string>
 
     <!-- Title of Megaphone B: upsell to enable backups when user has many messages -->
     <string name="BackupMessagesUpsell__title">Never lose a message</string>
@@ -6972,15 +6972,15 @@
     <string name="TwoFactorReminderMegaphone__thanks_for_confirming_your_passkey">Thanks for confirming your passkey.</string>
 
     <!-- Title of a megaphone shown to prompt a user without a phone number to verify they still know their Cipher Login (their account ID and recovery key) -->
-    <string name="CipherLoginReminderMegaphone__verify_your_signal_login">Verify your Cipher Login</string>
+    <string name="SignalLoginReminderMegaphone__verify_your_signal_login">Verify your Cipher Login</string>
     <!-- Body of a megaphone shown to prompt a user without a phone number to verify they still know their Cipher Login -->
-    <string name="CipherLoginReminderMegaphone__well_occasionally_ask_you_to_verify">We\'ll occasionally ask you to verify your login info to ensure you still know it.</string>
+    <string name="SignalLoginReminderMegaphone__well_occasionally_ask_you_to_verify">We\'ll occasionally ask you to verify your login info to ensure you still know it.</string>
     <!-- Button of a megaphone that will take users to the screen where they enter their Cipher Login to verify it -->
-    <string name="CipherLoginReminderMegaphone__verify">Verify</string>
+    <string name="SignalLoginReminderMegaphone__verify">Verify</string>
     <!-- Button of a megaphone that will snooze the reminder to verify the Cipher Login -->
-    <string name="CipherLoginReminderMegaphone__not_now">Not now</string>
+    <string name="SignalLoginReminderMegaphone__not_now">Not now</string>
     <!-- Snackbar text shown after the user verified their Cipher Login from the reminder -->
-    <string name="CipherLoginReminderMegaphone__thanks_for_confirming_your_signal_login">Thanks for confirming your Cipher Login.</string>
+    <string name="SignalLoginReminderMegaphone__thanks_for_confirming_your_signal_login">Thanks for confirming your Cipher Login.</string>
 
     <!-- Title of a megaphone shown at the bottom of the chat list when a user has disable the system setting for showing full screen notifications used showing incoming calls -->
     <string name="GrantFullScreenIntentPermission_megaphone_title">Turn on full screen notifications?</string>
@@ -7027,7 +7027,7 @@
     <string name="FindByActivity__invalid_username">Invalid username</string>
     <!-- Dialog title for invalid phone number -->
     <string name="FindByActivity__invalid_phone_number">Invalid phone number</string>
-    <!-- Dialog title when phone number is not a registered signal user -->
+    <!-- Dialog title when phone number is not a registered Cipher user -->
     <string name="FindByActivity__invite_to_signal">Invite to Cipher</string>
     <!-- Dialog title when username is not found -->
     <string name="FindByActivity__username_not_found">Username not found</string>
@@ -7505,7 +7505,7 @@
     <string name="RemoteBackupsSettingsFragment__depending_on_the_size">Depending on the size of your backup, this could take a long time. You can use your phone as you normally do while the download takes place.</string>
     <!-- Displayed in card when user has backups enabled but there is otherwise no subscription available. This can happen for example after a device transfer. -->
     <string name="RemoteBackupsSettingsFragment__your_subscription_was_not_found">Your subscription was not found on this device. Renew to continue using Cipher Secure Backups.</string>
-    <!-- Displayed in card when user has a signal subscription but the device doesn\'t see a google play billing subscription. Placeholder is days until subscription expiration. -->
+    <!-- Displayed in card when user has a Cipher subscription but the device doesn\'t see a google play billing subscription. Placeholder is days until subscription expiration. -->
     <plurals name="RemoteBackupsSettingsFragment__your_subscription_on_this_device_is_valid">
         <item quantity="one">Your subscription on this device is valid for the next %1$d day. Renew to continue using Cipher Secure Backups</item>
         <item quantity="other">Your subscription on this device is valid for the next %1$d days. Renew to continue using Cipher Secure Backups</item>
@@ -7875,7 +7875,7 @@
     <!-- Email subject when contacting support on a create backup failure -->
     <string name="BackupAlertBottomSheet_network_failure_support_email">Cipher Android Backup export network error</string>
     <!-- Email filter when contacting support on a create backup failure -->
-    <string name="BackupAlertBottomSheet_export_failure_filter" translatable="false">Android CipherBackups Export Failed</string>
+    <string name="BackupAlertBottomSheet_export_failure_filter" translatable="false">Android SignalBackups Export Failed</string>
 
     <!-- Title of dialog asking to submit debuglogs -->
     <string name="ContactSupportDialog_submit_debug_log">Submit debug log?</string>
@@ -7972,11 +7972,11 @@
     <string name="SearchFilterBottomSheet__select_date" translatable="false">Select date</string>
 
     <!-- Accessibility label describing the action that occurs when clicking a checkbox. -->
-    <string name="CipherCheckbox_accessibility_on_click_label">Toggle</string>
+    <string name="SignalCheckbox_accessibility_on_click_label">Toggle</string>
     <!-- Accessibility label describing a checked checkbox. -->
-    <string name="CipherCheckbox_accessibility_checked_description">Ticked</string>
+    <string name="SignalCheckbox_accessibility_checked_description">Ticked</string>
     <!-- Accessibility label describing an unchecked checkbox. -->
-    <string name="CipherCheckbox_accessibility_unchecked_description">Unticked</string>
+    <string name="SignalCheckbox_accessibility_unchecked_description">Unticked</string>
 
     <!-- Notification title for when user is out of remote storage -->
     <string name="Notification_backup_storage_full">Backup storage full</string>
@@ -8451,38 +8451,6 @@
     <string name="ResetRecoveryKeyBottomSheet__continue">Continue</string>
     <!-- Dialog body shown when the recovery key change limit is exhausted and the user does not have backups enabled. -->
     <string name="BackupKeyRotationDialogs__limit_exceeded_body_no_backups">You\'ve exhausted the number of new keys you can create. You will be able to create a new recovery key in 7 days.</string>
-    <!-- ============================================================
-     Fix: broken by rename (keep OLD name so code compiles)
-     ============================================================ -->
-<string name="AttachmentKeyboard_Signal_needs_permission_to_show_your_photos_and_videos">Cipher needs permission to show your photos and videos</string>
-
-<!-- ============================================================
-     Missing resources (were never present) – needed to compile
-     ============================================================ -->
-<string name="SignalLoginReminderMegaphone__thanks_for_confirming_your_signal_login">Thanks for confirming your Cipher login</string>
-
-<string name="DonateToSignal__donation_amount_too_high">Donation amount too high</string>
-<string name="DonateToSignalFragment__you_can_send_up_to_s_via_bank_transfer">You can send up to %1$s via bank transfer</string>
-<string name="DonateToSignalFragment__private_messaging">Private messaging</string>
-<string name="DonateToSignalFragment__privacy_over_profit">Privacy over profit</string>
-<string name="DonateToSignalFragment__continue">Continue</string>
-<string name="DonateToSignalFragment__bank_transfers_usually_take_1_business_day_to_process_onetime">Bank transfers usually take 1 business day to process.</string>
-<string name="DonateToSignalFragment__your_ideal_wero_payment_is_still_processing">Your iDEAL/Wero payment is still processing.</string>
-<string name="DonateToSignalFragment__your_payment_is_still_being_processed_onetime">Your payment is still being processed.</string>
-<string name="DonateToSignalFragment__bank_transfers_usually_take_1_business_day_to_process_monthly">Bank transfers usually take 1 business day to process.</string>
-<string name="DonateToSignalFragment__your_payment_is_still_being_processed_monthly">Your payment is still being processed.</string>
-<string name="DonateToSignalFragment__you_have_a_donation_pending">You have a donation pending</string>
-
-<string name="UnauthorizedReminder_this_is_likely_because_you_registered_your_phone_number_with_Signal_on_a_different_device">This is likely because you registered your phone number with Cipher on a different device.</string>
-
-<string name="SignalCheckbox_accessibility_checked_description">Checked</string>
-<string name="SignalCheckbox_accessibility_unchecked_description">Unchecked</string>
-<string name="SignalCheckbox_accessibility_on_click_label">Toggle checkbox</string>
-
-<string name="SignalBottomActionBar_more">More</string>
-
-<string name="SignalConnectionsBottomSheet__signal_connections_are_people">Signal connections are people you\'ve chosen to share your phone number with.</string>
-<string name="SignalConnectionsBottomSheet___signal_connections">Signal connections</string>
 
     <!-- EOF -->
 </resources>
